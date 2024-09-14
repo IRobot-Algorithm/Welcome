@@ -7,7 +7,7 @@
 <div align="center">
     <a href="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=2JehDBVI8BBWEfourtdRF60RpF1zjHOV&authKey=EvFODrPUWOLijVFji0AScdjeAl2JCO7ZtpbFKF14VjfpjFyHmIU3e%2FijA%2FvoBc2l&noverify=0&group_code=635535591">交流群</a>
     <span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
-    <a href="https://space.bilibili.com/436391821/channel/collectiondetail?sid=1809229">2023培训</a>
+    <a href="https://space.bilibili.com/436391821/channel/collectiondetail?sid=1809229">2023培训（**这里改一下**）</a>
     </br></br>
 </div>
 
